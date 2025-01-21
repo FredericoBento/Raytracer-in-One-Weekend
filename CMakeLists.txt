@@ -13,5 +13,7 @@ add_executable(Raytracer
   include/color.h
   include/vec3.h
   include/ray.h
+  include/hittable.h
+  include/sphere.h
   src/main.cpp
 )
