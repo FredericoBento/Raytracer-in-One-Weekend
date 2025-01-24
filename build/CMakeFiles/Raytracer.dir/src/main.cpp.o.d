@@ -1,8 +1,7 @@
 CMakeFiles/Raytracer.dir/src/main.cpp.o: \
  /home/fredarch/Documents/Github/Raytracer/src/main.cpp \
  /usr/include/stdc-predef.h \
- /home/fredarch/Documents/Github/Raytracer/include/color.h \
- /home/fredarch/Documents/Github/Raytracer/include/vec3.h \
+ /home/fredarch/Documents/Github/Raytracer/include/rtweekend.h \
  /usr/include/c++/14.2.1/cmath \
  /usr/include/c++/14.2.1/bits/requires_hosted.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
@@ -159,6 +158,33 @@ CMakeFiles/Raytracer.dir/src/main.cpp.o: \
  /usr/include/c++/14.2.1/bits/locale_facets.tcc \
  /usr/include/c++/14.2.1/bits/basic_ios.tcc \
  /usr/include/c++/14.2.1/bits/ostream.tcc /usr/include/c++/14.2.1/istream \
- /usr/include/c++/14.2.1/bits/istream.tcc \
+ /usr/include/c++/14.2.1/bits/istream.tcc /usr/include/c++/14.2.1/memory \
+ /usr/include/c++/14.2.1/bits/stl_tempbuf.h \
+ /usr/include/c++/14.2.1/bits/stl_uninitialized.h \
+ /usr/include/c++/14.2.1/bits/stl_raw_storage_iter.h \
+ /usr/include/c++/14.2.1/bits/align.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/stdint-uintn.h \
+ /usr/include/bits/stdint-least.h \
+ /usr/include/c++/14.2.1/bits/unique_ptr.h \
+ /usr/include/c++/14.2.1/bits/shared_ptr.h \
+ /usr/include/c++/14.2.1/bits/shared_ptr_base.h \
+ /usr/include/c++/14.2.1/bits/allocated_ptr.h \
+ /usr/include/c++/14.2.1/ext/aligned_buffer.h \
+ /usr/include/c++/14.2.1/ext/concurrence.h \
+ /usr/include/c++/14.2.1/bits/shared_ptr_atomic.h \
+ /usr/include/c++/14.2.1/bits/atomic_base.h \
+ /usr/include/c++/14.2.1/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/14.2.1/backward/auto_ptr.h \
+ /usr/include/c++/14.2.1/pstl/glue_memory_defs.h \
+ /usr/include/c++/14.2.1/pstl/execution_defs.h \
+ /home/fredarch/Documents/Github/Raytracer/include/color.h \
+ /home/fredarch/Documents/Github/Raytracer/include/vec3.h \
  /home/fredarch/Documents/Github/Raytracer/include/ray.h \
- /home/fredarch/Documents/Github/Raytracer/include/vec3.h
+ /home/fredarch/Documents/Github/Raytracer/include/hittable.h \
+ /home/fredarch/Documents/Github/Raytracer/include/hittable_list.h \
+ /home/fredarch/Documents/Github/Raytracer/include/hittable.h \
+ /usr/include/c++/14.2.1/vector /usr/include/c++/14.2.1/bits/stl_vector.h \
+ /usr/include/c++/14.2.1/bits/stl_bvector.h \
+ /usr/include/c++/14.2.1/bits/vector.tcc \
+ /home/fredarch/Documents/Github/Raytracer/include/sphere.h
