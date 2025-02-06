@@ -11,6 +11,7 @@ include_directories(include/)
 
 add_executable(Raytracer 
   include/color.h
+  include/interval.h
   include/vec3.h
   include/ray.h
   include/hittable.h
