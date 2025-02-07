@@ -10,6 +10,7 @@ set(CMAKE_EXPORT_ADD_DEFINITIONS ON)
 include_directories(include/)
 
 add_executable(Raytracer 
+  include/camera.h
   include/color.h
   include/interval.h
   include/vec3.h
