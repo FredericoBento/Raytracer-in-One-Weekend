@@ -1,3 +1,0 @@
-/home/fredarch/Documents/Github/Raytracer/build/CMakeFiles/Raytracer.dir
-/home/fredarch/Documents/Github/Raytracer/build/CMakeFiles/edit_cache.dir
-/home/fredarch/Documents/Github/Raytracer/build/CMakeFiles/rebuild_cache.dir
