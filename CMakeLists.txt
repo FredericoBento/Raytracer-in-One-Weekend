@@ -17,6 +17,7 @@ add_executable(Raytracer
   include/ray.h
   include/hittable.h
   include/hittable_list.h
+  include/material.h
   include/sphere.h
   include/rtweekend.h
   src/main.cpp

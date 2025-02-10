@@ -190,9 +190,11 @@ CMakeFiles/Raytracer.dir/src/main.cpp.o: \
  /home/fredarch/Documents/Github/Raytracer/include/ray.h \
  /home/fredarch/Documents/Github/Raytracer/include/camera.h \
  /home/fredarch/Documents/Github/Raytracer/include/hittable.h \
+ /home/fredarch/Documents/Github/Raytracer/include/material.h \
  /home/fredarch/Documents/Github/Raytracer/include/hittable.h \
  /home/fredarch/Documents/Github/Raytracer/include/hittable_list.h \
  /usr/include/c++/14.2.1/vector /usr/include/c++/14.2.1/bits/stl_vector.h \
  /usr/include/c++/14.2.1/bits/stl_bvector.h \
  /usr/include/c++/14.2.1/bits/vector.tcc \
+ /home/fredarch/Documents/Github/Raytracer/include/material.h \
  /home/fredarch/Documents/Github/Raytracer/include/sphere.h

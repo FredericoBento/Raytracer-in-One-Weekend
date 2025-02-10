@@ -7,6 +7,7 @@ CMakeFiles/Raytracer.dir/src/main.cpp.o: /home/fredarch/Documents/Github/Raytrac
   /home/fredarch/Documents/Github/Raytracer/include/hittable.h \
   /home/fredarch/Documents/Github/Raytracer/include/hittable_list.h \
   /home/fredarch/Documents/Github/Raytracer/include/interval.h \
+  /home/fredarch/Documents/Github/Raytracer/include/material.h \
   /home/fredarch/Documents/Github/Raytracer/include/ray.h \
   /home/fredarch/Documents/Github/Raytracer/include/rtweekend.h \
   /home/fredarch/Documents/Github/Raytracer/include/sphere.h \
@@ -323,8 +324,6 @@ Raytracer: /usr/lib/Scrt1.o \
 
 /usr/include/c++/14.2.1/bits/cpp_type_traits.h:
 
-/usr/include/c++/14.2.1/bits/memory_resource.h:
-
 /usr/include/c++/14.2.1/bits/locale_classes.h:
 
 /usr/include/c++/14.2.1/bits/concept_check.h:
@@ -395,6 +394,10 @@ Raytracer: /usr/lib/Scrt1.o \
 
 /usr/include/bits/errno.h:
 
+/usr/include/bits/time64.h:
+
+/usr/include/bits/stdlib-float.h:
+
 /usr/include/bits/libm-simd-decl-stubs.h:
 
 /usr/include/c++/14.2.1/bits/functexcept.h:
@@ -439,6 +442,14 @@ Raytracer: /usr/lib/Scrt1.o \
 
 /usr/include/c++/14.2.1/bits/nested_exception.h:
 
+/usr/include/asm-generic/errno.h:
+
+/usr/include/bits/fp-logb.h:
+
+/usr/include/c++/14.2.1/limits:
+
+/usr/include/c++/14.2.1/backward/binders.h:
+
 /usr/include/bits/types/struct_FILE.h:
 
 /usr/include/c++/14.2.1/initializer_list:
@@ -479,14 +490,6 @@ CMakeFiles/Raytracer.dir/src/main.cpp.o:
 
 /usr/include/c++/14.2.1/bits/stl_raw_storage_iter.h:
 
-/usr/include/bits/time64.h:
-
-/usr/include/bits/stdlib-float.h:
-
-/usr/include/asm-generic/errno.h:
-
-/usr/include/bits/fp-logb.h:
-
 /usr/include/bits/endian.h:
 
 /usr/include/c++/14.2.1/concepts:
@@ -511,11 +514,23 @@ CMakeFiles/Raytracer.dir/src/main.cpp.o:
 
 /usr/include/c++/14.2.1/bits/stl_iterator_base_funcs.h:
 
-/usr/include/c++/14.2.1/bits/shared_ptr_base.h:
-
 /home/fredarch/Documents/Github/Raytracer/include/vec3.h:
 
 /usr/include/c++/14.2.1/bits/shared_ptr_atomic.h:
+
+/usr/include/bits/types/time_t.h:
+
+/usr/include/asm/posix_types_64.h:
+
+/home/fredarch/Documents/Github/Raytracer/include/rtweekend.h:
+
+/usr/include/bits/atomic_wide_counter.h:
+
+/usr/include/c++/14.2.1/bits/specfun.h:
+
+/usr/include/c++/14.2.1/stdexcept:
+
+/usr/include/bits/mathcalls-helper-functions.h:
 
 /usr/lib/crtn.o:
 
@@ -525,9 +540,7 @@ CMakeFiles/Raytracer.dir/src/main.cpp.o:
 
 /usr/include/bits/types/__fpos64_t.h:
 
-/usr/include/c++/14.2.1/limits:
-
-/usr/include/c++/14.2.1/backward/binders.h:
+/usr/include/c++/14.2.1/bits/shared_ptr_base.h:
 
 /usr/include/bits/long-double.h:
 
@@ -538,6 +551,8 @@ CMakeFiles/Raytracer.dir/src/main.cpp.o:
 /usr/include/bits/libc-header-start.h:
 
 /usr/include/c++/14.2.1/ext/aligned_buffer.h:
+
+/home/fredarch/Documents/Github/Raytracer/include/material.h:
 
 /usr/include/bits/math-vector.h:
 
@@ -556,18 +571,6 @@ CMakeFiles/Raytracer.dir/src/main.cpp.o:
 /usr/include/gnu/stubs.h:
 
 /usr/include/c++/14.2.1/bits/alloc_traits.h:
-
-/usr/include/asm/posix_types_64.h:
-
-/home/fredarch/Documents/Github/Raytracer/include/rtweekend.h:
-
-/usr/include/bits/types/time_t.h:
-
-/usr/include/bits/atomic_wide_counter.h:
-
-/usr/include/c++/14.2.1/bits/specfun.h:
-
-/usr/include/c++/14.2.1/stdexcept:
 
 /usr/include/c++/14.2.1/bits/uses_allocator_args.h:
 
@@ -595,12 +598,6 @@ CMakeFiles/Raytracer.dir/src/main.cpp.o:
 
 /usr/include/c++/14.2.1/bits/ios_base.h:
 
-/usr/include/asm/errno.h:
-
-/usr/include/c++/14.2.1/iostream:
-
-/usr/include/bits/stdint-uintn.h:
-
 /usr/include/bits/types/struct_timeval.h:
 
 /usr/include/c++/14.2.1/bits/exception.h:
@@ -617,9 +614,15 @@ CMakeFiles/Raytracer.dir/src/main.cpp.o:
 
 /usr/include/bits/types/__FILE.h:
 
-/usr/include/bits/mathcalls-helper-functions.h:
-
 /usr/include/bits/thread-shared-types.h:
+
+/usr/include/c++/14.2.1/bits/memory_resource.h:
+
+/usr/include/asm/errno.h:
+
+/usr/include/bits/stdint-uintn.h:
+
+/usr/include/c++/14.2.1/iostream:
 
 /usr/include/c++/14.2.1/bits/move.h:
 
