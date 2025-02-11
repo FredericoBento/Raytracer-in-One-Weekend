@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/fredarch/Documents/Github/Raytracer/build",
+  "command": "/usr/bin/c++  -I/home/fredarch/Documents/Github/Raytracer/include -g -std=gnu++17 -o CMakeFiles/Raytracer.dir/src/main.cpp.o -c /home/fredarch/Documents/Github/Raytracer/src/main.cpp",
+  "file": "/home/fredarch/Documents/Github/Raytracer/src/main.cpp",
+  "output": "CMakeFiles/Raytracer.dir/src/main.cpp.o"
+}
+]
